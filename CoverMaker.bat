@@ -1,0 +1,1 @@
+python CoverMaker/core.py
